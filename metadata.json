@@ -1,0 +1,8 @@
+{
+  "name": "FleetOps - Enterprise Fleet & Operations Management",
+  "description": "منظومة سحابية متكاملة لإدارة وتشغيل أساطيل التوصيل، السائقين، المركبات، الوقود، الصيانة، الحضور، التقارير والعمليات التشغيلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
